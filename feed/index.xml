@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kraftlebkuchen Website</title>
-	<atom:link href="/feed/?simply_static_page=6" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://kraftlebkuchen.de/feed/?simply_static_page=86" rel="self" type="application/rss+xml" />
+	<link>https://kraftlebkuchen.de/</link>
 	<description></description>
 	<lastBuildDate>Wed, 11 Jan 2023 18:34:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://kraftlebkuchen.de/hello-world/</link>
+					<comments>https://kraftlebkuchen.de/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[kraftlebkuchen]]></dc:creator>
 		<pubDate>Wed, 11 Jan 2023 18:34:37 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://kraftlebkuchen.de/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://kraftlebkuchen.de/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
